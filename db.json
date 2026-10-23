@@ -1,0 +1,1004 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Patel",
+      "rollNumber": 101,
+      "phone": "9876543210",
+      "email": "aarav.patel1@example.com",
+      "class": "9-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "name": "Diya Thakkar",
+      "rollNumber": 102,
+      "phone": "9876543347",
+      "email": "diya.thakkar2@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Kabir Chauhan",
+      "rollNumber": 103,
+      "phone": "9876543484",
+      "email": "kabir.chauhan3@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Anaya Shah",
+      "rollNumber": 104,
+      "phone": "9876543621",
+      "email": "anaya.shah4@example.com",
+      "class": "10-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "name": "Vivaan Bhatt",
+      "rollNumber": 105,
+      "phone": "9876543758",
+      "email": "vivaan.bhatt5@example.com",
+      "class": "9-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 6,
+      "name": "Isha Pandya",
+      "rollNumber": 106,
+      "phone": "9876543895",
+      "email": "isha.pandya6@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 7,
+      "name": "Reyansh Mehta",
+      "rollNumber": 107,
+      "phone": "9876544032",
+      "email": "reyansh.mehta7@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 8,
+      "name": "Kiara Rao",
+      "rollNumber": 108,
+      "phone": "9876544169",
+      "email": "kiara.rao8@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 9,
+      "name": "Aditya Dave",
+      "rollNumber": 109,
+      "phone": "9876544306",
+      "email": "aditya.dave9@example.com",
+      "class": "9-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 10,
+      "name": "Myra Desai",
+      "rollNumber": 110,
+      "phone": "9876544443",
+      "email": "myra.desai10@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": 11,
+      "name": "Arjun Singh",
+      "rollNumber": 111,
+      "phone": "9876544580",
+      "email": "arjun.singh11@example.com",
+      "class": "9-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 12,
+      "name": "Aadhya Modi",
+      "rollNumber": 112,
+      "phone": "9876544717",
+      "email": "aadhya.modi12@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 13,
+      "name": "Krish Joshi",
+      "rollNumber": 113,
+      "phone": "9876544854",
+      "email": "krish.joshi13@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 14,
+      "name": "Saanvi Kapoor",
+      "rollNumber": 114,
+      "phone": "9876544991",
+      "email": "saanvi.kapoor14@example.com",
+      "class": "10-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 15,
+      "name": "Rohan Soni",
+      "rollNumber": 115,
+      "phone": "9876545128",
+      "email": "rohan.soni15@example.com",
+      "class": "9-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 16,
+      "name": "Pari Trivedi",
+      "rollNumber": 116,
+      "phone": "9876545265",
+      "email": "pari.trivedi16@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 17,
+      "name": "Dev Gupta",
+      "rollNumber": 117,
+      "phone": "9876545402",
+      "email": "dev.gupta17@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 18,
+      "name": "Navya Vyas",
+      "rollNumber": 118,
+      "phone": "9876545539",
+      "email": "navya.vyas18@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=18"
+    },
+    {
+      "id": 19,
+      "name": "Yash Parikh",
+      "rollNumber": 119,
+      "phone": "9876545676",
+      "email": "yash.parikh19@example.com",
+      "class": "9-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=19"
+    },
+    {
+      "id": 20,
+      "name": "Tara Malhotra",
+      "rollNumber": 120,
+      "phone": "9876545813",
+      "email": "tara.malhotra20@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=20"
+    },
+    {
+      "id": 21,
+      "name": "Dhruv Patel",
+      "rollNumber": 121,
+      "phone": "9876545950",
+      "email": "dhruv.patel21@example.com",
+      "class": "9-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=21"
+    },
+    {
+      "id": 22,
+      "name": "Riya Thakkar",
+      "rollNumber": 122,
+      "phone": "9876546087",
+      "email": "riya.thakkar22@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=22"
+    },
+    {
+      "id": 23,
+      "name": "Ishaan Chauhan",
+      "rollNumber": 123,
+      "phone": "9876546224",
+      "email": "ishaan.chauhan23@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=23"
+    },
+    {
+      "id": 24,
+      "name": "Meera Shah",
+      "rollNumber": 124,
+      "phone": "9876546361",
+      "email": "meera.shah24@example.com",
+      "class": "10-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=24"
+    },
+    {
+      "id": 25,
+      "name": "Kunal Bhatt",
+      "rollNumber": 125,
+      "phone": "9876546498",
+      "email": "kunal.bhatt25@example.com",
+      "class": "9-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=25"
+    },
+    {
+      "id": 26,
+      "name": "Aanya Pandya",
+      "rollNumber": 126,
+      "phone": "9876546635",
+      "email": "aanya.pandya26@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=26"
+    },
+    {
+      "id": 27,
+      "name": "Manav Mehta",
+      "rollNumber": 127,
+      "phone": "9876546772",
+      "email": "manav.mehta27@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=27"
+    },
+    {
+      "id": 28,
+      "name": "Sara Rao",
+      "rollNumber": 128,
+      "phone": "9876546909",
+      "email": "sara.rao28@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=28"
+    },
+    {
+      "id": 29,
+      "name": "Rudra Dave",
+      "rollNumber": 129,
+      "phone": "9876547046",
+      "email": "rudra.dave29@example.com",
+      "class": "9-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=29"
+    },
+    {
+      "id": 30,
+      "name": "Jiya Desai",
+      "rollNumber": 130,
+      "phone": "9876547183",
+      "email": "jiya.desai30@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=30"
+    },
+    {
+      "id": 31,
+      "name": "Atharv Singh",
+      "rollNumber": 131,
+      "phone": "9876547320",
+      "email": "atharv.singh31@example.com",
+      "class": "9-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=31"
+    },
+    {
+      "id": 32,
+      "name": "Nisha Modi",
+      "rollNumber": 132,
+      "phone": "9876547457",
+      "email": "nisha.modi32@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": 33,
+      "name": "Shaurya Joshi",
+      "rollNumber": 133,
+      "phone": "9876547594",
+      "email": "shaurya.joshi33@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=33"
+    },
+    {
+      "id": 34,
+      "name": "Pihu Kapoor",
+      "rollNumber": 134,
+      "phone": "9876547731",
+      "email": "pihu.kapoor34@example.com",
+      "class": "10-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=34"
+    },
+    {
+      "id": 35,
+      "name": "Om Soni",
+      "rollNumber": 135,
+      "phone": "9876547868",
+      "email": "om.soni35@example.com",
+      "class": "9-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=35"
+    },
+    {
+      "id": 36,
+      "name": "Avni Trivedi",
+      "rollNumber": 136,
+      "phone": "9876548005",
+      "email": "avni.trivedi36@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=36"
+    },
+    {
+      "id": 37,
+      "name": "Harsh Gupta",
+      "rollNumber": 137,
+      "phone": "9876548142",
+      "email": "harsh.gupta37@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=37"
+    },
+    {
+      "id": 38,
+      "name": "Kavya Vyas",
+      "rollNumber": 138,
+      "phone": "9876548279",
+      "email": "kavya.vyas38@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=38"
+    },
+    {
+      "id": 39,
+      "name": "Neil Parikh",
+      "rollNumber": 139,
+      "phone": "9876548416",
+      "email": "neil.parikh39@example.com",
+      "class": "9-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=39"
+    },
+    {
+      "id": 40,
+      "name": "Mira Malhotra",
+      "rollNumber": 140,
+      "phone": "9876548553",
+      "email": "mira.malhotra40@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=40"
+    },
+    {
+      "id": 41,
+      "name": "Samar Patel",
+      "rollNumber": 141,
+      "phone": "9876548690",
+      "email": "samar.patel41@example.com",
+      "class": "9-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=41"
+    },
+    {
+      "id": 42,
+      "name": "Tanvi Thakkar",
+      "rollNumber": 142,
+      "phone": "9876548827",
+      "email": "tanvi.thakkar42@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=42"
+    },
+    {
+      "id": 43,
+      "name": "Ved Chauhan",
+      "rollNumber": 143,
+      "phone": "9876548964",
+      "email": "ved.chauhan43@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=43"
+    },
+    {
+      "id": 44,
+      "name": "Ira Shah",
+      "rollNumber": 144,
+      "phone": "9876549101",
+      "email": "ira.shah44@example.com",
+      "class": "10-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=44"
+    },
+    {
+      "id": 45,
+      "name": "Aryan Bhatt",
+      "rollNumber": 145,
+      "phone": "9876549238",
+      "email": "aryan.bhatt45@example.com",
+      "class": "9-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": 46,
+      "name": "Prisha Pandya",
+      "rollNumber": 146,
+      "phone": "9876549375",
+      "email": "prisha.pandya46@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=46"
+    },
+    {
+      "id": 47,
+      "name": "Jay Mehta",
+      "rollNumber": 147,
+      "phone": "9876549512",
+      "email": "jay.mehta47@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": 48,
+      "name": "Anvi Rao",
+      "rollNumber": 148,
+      "phone": "9876549649",
+      "email": "anvi.rao48@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=48"
+    },
+    {
+      "id": 49,
+      "name": "Laksh Dave",
+      "rollNumber": 149,
+      "phone": "9876549786",
+      "email": "laksh.dave49@example.com",
+      "class": "9-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=49"
+    },
+    {
+      "id": 50,
+      "name": "Riddhi Desai",
+      "rollNumber": 150,
+      "phone": "9876549923",
+      "email": "riddhi.desai50@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=50"
+    },
+    {
+      "id": 51,
+      "name": "Aarav Kapoor",
+      "rollNumber": 151,
+      "phone": "9876550060",
+      "email": "aarav.kapoor51@example.com",
+      "class": "9-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=51"
+    },
+    {
+      "id": 52,
+      "name": "Diya Soni",
+      "rollNumber": 152,
+      "phone": "9876550197",
+      "email": "diya.soni52@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=52"
+    },
+    {
+      "id": 53,
+      "name": "Kabir Trivedi",
+      "rollNumber": 153,
+      "phone": "9876550334",
+      "email": "kabir.trivedi53@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=53"
+    },
+    {
+      "id": 54,
+      "name": "Anaya Gupta",
+      "rollNumber": 154,
+      "phone": "9876550471",
+      "email": "anaya.gupta54@example.com",
+      "class": "10-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=54"
+    },
+    {
+      "id": 55,
+      "name": "Vivaan Vyas",
+      "rollNumber": 155,
+      "phone": "9876550608",
+      "email": "vivaan.vyas55@example.com",
+      "class": "9-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=55"
+    },
+    {
+      "id": 56,
+      "name": "Isha Parikh",
+      "rollNumber": 156,
+      "phone": "9876550745",
+      "email": "isha.parikh56@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=56"
+    },
+    {
+      "id": 57,
+      "name": "Reyansh Malhotra",
+      "rollNumber": 157,
+      "phone": "9876550882",
+      "email": "reyansh.malhotra57@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=57"
+    },
+    {
+      "id": 58,
+      "name": "Kiara Patel",
+      "rollNumber": 158,
+      "phone": "9876551019",
+      "email": "kiara.patel58@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=58"
+    },
+    {
+      "id": 59,
+      "name": "Aditya Thakkar",
+      "rollNumber": 159,
+      "phone": "9876551156",
+      "email": "aditya.thakkar59@example.com",
+      "class": "9-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=59"
+    },
+    {
+      "id": 60,
+      "name": "Myra Chauhan",
+      "rollNumber": 160,
+      "phone": "9876551293",
+      "email": "myra.chauhan60@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=60"
+    },
+    {
+      "id": 61,
+      "name": "Arjun Shah",
+      "rollNumber": 161,
+      "phone": "9876551430",
+      "email": "arjun.shah61@example.com",
+      "class": "9-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=61"
+    },
+    {
+      "id": 62,
+      "name": "Aadhya Bhatt",
+      "rollNumber": 162,
+      "phone": "9876551567",
+      "email": "aadhya.bhatt62@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=62"
+    },
+    {
+      "id": 63,
+      "name": "Krish Pandya",
+      "rollNumber": 163,
+      "phone": "9876551704",
+      "email": "krish.pandya63@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=63"
+    },
+    {
+      "id": 64,
+      "name": "Saanvi Mehta",
+      "rollNumber": 164,
+      "phone": "9876551841",
+      "email": "saanvi.mehta64@example.com",
+      "class": "10-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=64"
+    },
+    {
+      "id": 65,
+      "name": "Rohan Rao",
+      "rollNumber": 165,
+      "phone": "9876551978",
+      "email": "rohan.rao65@example.com",
+      "class": "9-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=65"
+    },
+    {
+      "id": 66,
+      "name": "Pari Dave",
+      "rollNumber": 166,
+      "phone": "9876552115",
+      "email": "pari.dave66@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=66"
+    },
+    {
+      "id": 67,
+      "name": "Dev Desai",
+      "rollNumber": 167,
+      "phone": "9876552252",
+      "email": "dev.desai67@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=67"
+    },
+    {
+      "id": 68,
+      "name": "Navya Singh",
+      "rollNumber": 168,
+      "phone": "9876552389",
+      "email": "navya.singh68@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=68"
+    },
+    {
+      "id": 69,
+      "name": "Yash Modi",
+      "rollNumber": 169,
+      "phone": "9876552526",
+      "email": "yash.modi69@example.com",
+      "class": "9-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=69"
+    },
+    {
+      "id": 70,
+      "name": "Tara Joshi",
+      "rollNumber": 170,
+      "phone": "9876552663",
+      "email": "tara.joshi70@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=70"
+    },
+    {
+      "id": 71,
+      "name": "Dhruv Kapoor",
+      "rollNumber": 171,
+      "phone": "9876552800",
+      "email": "dhruv.kapoor71@example.com",
+      "class": "9-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 72,
+      "name": "Riya Soni",
+      "rollNumber": 172,
+      "phone": "9876552937",
+      "email": "riya.soni72@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 73,
+      "name": "Ishaan Trivedi",
+      "rollNumber": 173,
+      "phone": "9876553074",
+      "email": "ishaan.trivedi73@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 74,
+      "name": "Meera Gupta",
+      "rollNumber": 174,
+      "phone": "9876553211",
+      "email": "meera.gupta74@example.com",
+      "class": "10-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 75,
+      "name": "Kunal Vyas",
+      "rollNumber": 175,
+      "phone": "9876553348",
+      "email": "kunal.vyas75@example.com",
+      "class": "9-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 76,
+      "name": "Aanya Parikh",
+      "rollNumber": 176,
+      "phone": "9876553485",
+      "email": "aanya.parikh76@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 77,
+      "name": "Manav Malhotra",
+      "rollNumber": 177,
+      "phone": "9876553622",
+      "email": "manav.malhotra77@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 78,
+      "name": "Sara Patel",
+      "rollNumber": 178,
+      "phone": "9876553759",
+      "email": "sara.patel78@example.com",
+      "class": "10-C",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 79,
+      "name": "Rudra Thakkar",
+      "rollNumber": 179,
+      "phone": "9876553896",
+      "email": "rudra.thakkar79@example.com",
+      "class": "9-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 80,
+      "name": "Jiya Chauhan",
+      "rollNumber": 180,
+      "phone": "9876554033",
+      "email": "jiya.chauhan80@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": 81,
+      "name": "Atharv Shah",
+      "rollNumber": 181,
+      "phone": "9876554170",
+      "email": "atharv.shah81@example.com",
+      "class": "9-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 82,
+      "name": "Nisha Bhatt",
+      "rollNumber": 182,
+      "phone": "9876554307",
+      "email": "nisha.bhatt82@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 83,
+      "name": "Shaurya Pandya",
+      "rollNumber": 183,
+      "phone": "9876554444",
+      "email": "shaurya.pandya83@example.com",
+      "class": "9-B",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 84,
+      "name": "Pihu Mehta",
+      "rollNumber": 184,
+      "phone": "9876554581",
+      "email": "pihu.mehta84@example.com",
+      "class": "10-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 85,
+      "name": "Om Rao",
+      "rollNumber": 185,
+      "phone": "9876554718",
+      "email": "om.rao85@example.com",
+      "class": "9-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 86,
+      "name": "Avni Dave",
+      "rollNumber": 186,
+      "phone": "9876554855",
+      "email": "avni.dave86@example.com",
+      "class": "10-B",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 87,
+      "name": "Harsh Desai",
+      "rollNumber": 187,
+      "phone": "9876554992",
+      "email": "harsh.desai87@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 88,
+      "name": "Kavya Singh",
+      "rollNumber": 188,
+      "phone": "9876555129",
+      "email": "kavya.singh88@example.com",
+      "class": "10-A",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=18"
+    },
+    {
+      "id": 89,
+      "name": "Neil Modi",
+      "rollNumber": 189,
+      "phone": "9876555266",
+      "email": "neil.modi89@example.com",
+      "class": "9-B",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=19"
+    },
+    {
+      "id": 90,
+      "name": "Mira Joshi",
+      "rollNumber": 190,
+      "phone": "9876555403",
+      "email": "mira.joshi90@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=20"
+    },
+    {
+      "id": 91,
+      "name": "Samar Kapoor",
+      "rollNumber": 191,
+      "phone": "9876555540",
+      "email": "samar.kapoor91@example.com",
+      "class": "9-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=21"
+    },
+    {
+      "id": 92,
+      "name": "Tanvi Soni",
+      "rollNumber": 192,
+      "phone": "9876555677",
+      "email": "tanvi.soni92@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=22"
+    },
+    {
+      "id": 93,
+      "name": "Ved Trivedi",
+      "rollNumber": 193,
+      "phone": "9876555814",
+      "email": "ved.trivedi93@example.com",
+      "class": "9-C",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=23"
+    },
+    {
+      "id": 94,
+      "name": "Ira Gupta",
+      "rollNumber": 194,
+      "phone": "9876555951",
+      "email": "ira.gupta94@example.com",
+      "class": "10-A",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=24"
+    },
+    {
+      "id": 95,
+      "name": "Aryan Vyas",
+      "rollNumber": 195,
+      "phone": "9876556088",
+      "email": "aryan.vyas95@example.com",
+      "class": "9-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=25"
+    },
+    {
+      "id": 96,
+      "name": "Prisha Parikh",
+      "rollNumber": 196,
+      "phone": "9876556225",
+      "email": "prisha.parikh96@example.com",
+      "class": "10-C",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=26"
+    },
+    {
+      "id": 97,
+      "name": "Jay Malhotra",
+      "rollNumber": 197,
+      "phone": "9876556362",
+      "email": "jay.malhotra97@example.com",
+      "class": "9-A",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=27"
+    },
+    {
+      "id": 98,
+      "name": "Anvi Patel",
+      "rollNumber": 198,
+      "phone": "9876556499",
+      "email": "anvi.patel98@example.com",
+      "class": "10-B",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=28"
+    },
+    {
+      "id": 99,
+      "name": "Laksh Thakkar",
+      "rollNumber": 199,
+      "phone": "9876556636",
+      "email": "laksh.thakkar99@example.com",
+      "class": "9-C",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=29"
+    },
+    {
+      "id": 100,
+      "name": "Riddhi Chauhan",
+      "rollNumber": 200,
+      "phone": "9876556773",
+      "email": "riddhi.chauhan100@example.com",
+      "class": "10-A",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=30"
+    }
+  ]
+}
